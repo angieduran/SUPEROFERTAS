@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("images/overlay.png"), url("../../images/fondo2.jpg");
+
+    
+}
+
